@@ -1,0 +1,1 @@
+{"enterprise_users": "Contains user accounts. Columns: user_id, email, status ('completed' or 'internal').", "spending_logs": "Contains transactional spending. Columns: log_id, user_id, amount, transaction_date."}

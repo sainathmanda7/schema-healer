@@ -1,0 +1,4 @@
+pydantic-ai
+openai
+sqlglot
+python-dotenv
